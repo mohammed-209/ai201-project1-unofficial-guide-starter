@@ -1,0 +1,82 @@
+Source: https://www.ratemyprofessors.com/professor/1487898
+Professor: Daniel Cliburn
+Department: Computer Science
+School: University of the Pacific
+Overall Rating: 4.0 / 5
+Difficulty: 2.9 / 5
+Would Take Again: 50%
+
+Summary:
+Reviews for Professor Daniel Cliburn are mostly positive, but there is one recent negative review about COMP 53 midterms being very difficult. Older reviews describe him as helpful, nice, and focused on making sure students understand concepts. Students say he gives class time for projects, walks around to help while students code, and encourages questions.
+
+Review:
+Course: COMP 53
+Date: August 25, 2025
+Quality: 1.0
+Difficulty: 5.0
+Attendance: Mandatory
+Textbook: N/A
+Student comment: The student said the midterms are extremely difficult and can heavily hurt the final grade. Even with strong project grades, midterms can tank the course grade. Coding on midterms is done with pen and paper, which makes the exams harder.
+Tags: Tough grader, hilarious, test heavy
+
+Review:
+Course: COMP 53
+Date: August 5, 2016
+Quality: 5.0
+Difficulty: 2.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Student comment: Great professor who makes sure students learn the material well. Students should ask questions. He gives students time to code on their own while he walks around and helps. He may seem intimidating because he expects students to know the material, but he is nice.
+
+Review:
+Course: COMP 51
+Date: May 2, 2014
+Quality: 4.5
+Difficulty: 2.0
+Textbook: Yes
+Student comment: Very nice and helpful teacher. Tests are easier if students do the classwork, homework, and study. Homework is usually a project due every one to two weeks, and he provides class time to work on it. Weekly quizzes are easy and based directly on the book. The student recommends taking him.
+
+Review:
+Course: COMP 53
+Date: September 4, 2012
+Quality: 5.0
+Difficulty: 2.0
+Textbook: No
+Student comment: Awesome professor. The student said the difficulty comes from the course material students need to learn, not from Cliburn trying to make the class hard.
+
+Review:
+Course: COMP 53
+Date: May 13, 2012
+Quality: 4.5
+Difficulty: 3.0
+Textbook: No
+Student comment: Great person and great professor. He makes students think independently to make sure they understand the concepts.
+
+Review:
+Course: COMP 053
+Date: April 2, 2012
+Quality: 3.0
+Difficulty: 4.0
+Textbook: No
+Student comment: The review jokes about Project 2 being harder than expected.
+
+Review:
+Course: COMP 51
+Date: September 16, 2011
+Quality: 5.0
+Difficulty: 2.0
+Textbook: No
+Student comment: Professor Cliburn is a great teacher and makes sure students understand concepts before moving on. He is understanding if students need more time on homework. Overall, the student described him as a great professor.
+
+Common Themes:
+- Cliburn is often described as helpful, nice, and concept-focused.
+- Students say he encourages questions and helps during coding time.
+- Projects and homework are important parts of the class.
+- Older reviews say tests and quizzes are manageable if students do the work.
+- A recent COMP 53 review says midterms are very difficult and test-heavy.
+- Students may need to think independently and understand concepts deeply.
+
+Useful Student Advice:
+Students should ask questions, keep up with projects, use class coding time, and study seriously for exams. For COMP 53, students should prepare carefully for midterms, especially because coding may be done by hand.

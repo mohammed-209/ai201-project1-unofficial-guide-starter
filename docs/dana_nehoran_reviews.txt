@@ -1,0 +1,152 @@
+Source: https://www.ratemyprofessors.com/professor/2286280
+Professor: Dana Nehoran
+Department: Computer Science
+School: University of the Pacific
+Overall Rating: 3.6 / 5
+Difficulty: 3.4 / 5
+Would Take Again: 55%
+
+Summary:
+Student reviews for Professor Dana Nehoran are very mixed. Positive reviews describe her as inspirational, caring, respected, and a strong teacher for programming, analytics, data science, Python, R, and real-world scenarios. Some students say they learned useful skills, practiced data manipulation, and found the class interactive and practical.
+
+Negative reviews describe her classes as difficult, fast-paced, and homework-heavy. Some students say she can be hard to understand because of her accent, moves quickly through material, and is difficult to access outside class. A few reviews say students without computer science background may struggle, especially in COMP 051 or similar introductory programming courses. One 2025 review makes serious negative claims about a startup-related opportunity and warns students to be careful.
+
+Review:
+Course: ANLT 224
+Date: April 23, 2025
+Quality: 1.0
+Difficulty: 3.0
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Student comment: The student made serious negative claims about a startup called QQTech and said students should be careful. They said opportunities may be misleading, work may not match what was promised, payment may be unclear, and the experience may feel exploitative or unprofessional.
+Tags: Group projects
+
+Review:
+Course: COM 162
+Date: January 21, 2023
+Quality: 1.0
+Difficulty: 5.0
+Attendance: Mandatory
+Grade: Rather not say
+Textbook: N/A
+Student comment: The student said it was difficult to access the lecturer outside class hours.
+Tags: Tough grader, participation matters, lots of homework
+
+Review:
+Course: COMP 061
+Date: May 27, 2019
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Not mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: Yes
+Student comment: Great course for programming. The student learned Python and C++. The course was interesting.
+Tags: Inspirational, amazing lectures
+
+Review:
+Course: COM 162
+Date: May 2, 2019
+Quality: 5.0
+Difficulty: 2.0
+Attendance: Not mandatory
+Would Take Again: Yes
+Textbook: Yes
+Student comment: Outstanding teacher. Students learn a lot. Lectures are great, and she explains useful concepts. The student said she was one of the best professors they had.
+Tags: Respected, participation matters, amazing lectures
+
+Review:
+Course: COMP SCI 61
+Date: April 30, 2019
+Quality: 1.0
+Difficulty: 5.0
+Attendance: Mandatory
+Would Take Again: No
+Grade: A+
+Textbook: Yes
+Student comment: The student said she was biased toward non-computer science majors, rushed lectures, and hardly answered questions. The student said her accent was heavy and hard to understand.
+Tags: Lots of homework, participation matters, tough grader
+
+Review:
+Course: COMP 162
+Date: April 4, 2019
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Not mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Student comment: Inspirational professor. Students learn a lot and program data science in Python and R using different data sets. Students practice data manipulation and analytics. The course has clear expectations, useful skills, interactive programming, and is fun.
+Tags: Inspirational, clear grading criteria, caring
+
+Review:
+Course: COMP 162
+Date: March 10, 2019
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Not mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Student comment: Great teacher who cares about students. Students learn to manipulate data. The material prepares students for real-world scenarios.
+Tags: Respected, inspirational, caring
+
+Review:
+Course: COMP 162
+Date: March 4, 2019
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Not mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Student comment: One of the best professors the student had. The class used real-world scenarios and students learn a lot.
+Tags: Respected, inspirational, amazing lectures
+
+Review:
+Course: COMP 51
+Date: October 27, 2017
+Quality: 3.0
+Difficulty: 4.0
+Attendance: Mandatory
+Would Take Again: No
+Textbook: Yes
+Student comment: The student took the class for MIS and said students without computer science background or coding experience may struggle. Professor Nehoran moves quickly through material. Students may have to make Battleship and Reversi as semester projects. The student recommends taking someone else or getting help from the beginning.
+Tags: Tough grader, lots of homework
+
+Review:
+Course: COMP 051
+Date: October 26, 2017
+Quality: 5.0
+Difficulty: 2.0
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Yes
+Student comment: The student said Professor Nehoran takes care of students, changes assignments and due dates to keep everyone on the same page, and is a wonderful teacher. They said she only has a slight accent and definitely recommend her.
+Tags: Gives good feedback, respected, caring
+
+Review:
+Course: COMP 51
+Date: October 12, 2017
+Quality: 3.0
+Difficulty: 4.0
+Attendance: Mandatory
+Would Take Again: No
+Grade: D-
+Textbook: Yes
+Student comment: The student said she has a heavy accent and is hard to understand. The student left class more confused, but said she is willing to help during office hours if students make an appointment. The class jumped straight into C++ programming on day one and moved too fast through the material.
+Tags: Tough grader, lots of homework
+
+Common Themes:
+- Professor Nehoran receives both very positive and very negative reviews.
+- Positive reviews say students learn a lot, especially in programming, data science, Python, R, analytics, and real-world scenarios.
+- Negative reviews say some classes move too fast and have lots of homework.
+- Some students say she is caring and gives good feedback.
+- Some students say she can be difficult to understand because of her accent.
+- Students without coding background may struggle in COMP 051 or similar introductory programming courses.
+- Several reviews mention participation, tough grading, and heavy workload.
+- One review warns about a startup-related experience and describes it as unprofessional or exploitative.
+
+Useful Student Advice:
+Students should get help early, especially if they have little coding background. Students should expect programming-heavy work in courses like COMP 051, COMP 061, and COMP 162. For data science or analytics courses, students may learn useful real-world skills in Python, R, data manipulation, and analytics. Students who struggle with fast-paced lectures should use office hours and ask questions early.

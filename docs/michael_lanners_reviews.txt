@@ -1,0 +1,65 @@
+Source: https://www.ratemyprofessors.com/professor/3039384
+Professor: Michael Lanners
+Department: Computer Science
+School: University of the Pacific
+Overall Rating: 2.3 / 5
+Difficulty: 4.7 / 5
+Would Take Again: 0%
+
+Summary:
+Reviews for Professor Michael Lanners are mostly negative and describe his classes as difficult, fast-paced, self-taught, and heavily dependent on Zybooks. Students say there is limited in-class lecturing, multiple labs, lots of homework, and not enough support. Several reviews say students who cannot teach themselves may struggle.
+
+Review:
+Course: COMP 53
+Date: May 4, 2026
+Quality: 1.0
+Difficulty: 4.0
+Attendance: Mandatory
+Textbook: N/A
+Student comment: The student said he seems new to teaching and relies heavily on Zybooks to teach. There is not much in-class lecturing, and students are expected to come to class after self-teaching the material. The student said the class is very tough for an intro CS class and recommends avoiding him if you cannot teach yourself.
+Tags: Tough grader, lots of homework
+
+Review:
+Course: COMP 61
+Date: February 25, 2026
+Quality: 5.0
+Difficulty: 5.0
+Attendance: Mandatory
+Grade: B
+Textbook: Yes
+Student comment: Short positive review saying he is “jacked and watches anime.” The review does not give much academic detail.
+Tags: Participation matters, lots of homework, beware of pop quizzes
+
+Review:
+Course: COMP 61
+Date: December 2, 2025
+Quality: 1.0
+Difficulty: 5.0
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Student comment: The student said the instructor teaches for only about 10 to 15 minutes and then assigns multiple labs for students to complete alone. It feels like Zybooks is expected to teach the material instead of the instructor. Students may feel confused, unsupported, and struggle to learn effectively.
+Tags: Tough grader, test heavy
+
+Review:
+Course: COMP 61
+Date: January 2, 2025
+Quality: 1.0
+Difficulty: 4.0
+Attendance: Mandatory
+Grade: C+
+Textbook: N/A
+Student comment: The student said he was a replacement professor after the add/drop period. The class required a 70 dollar online homework platform. It was fast-paced and self-taught. Students used AI on the midterm because he did not lecture, creating a poor learning environment. Students asked for a review day, but he pushed back. The student said he admitted being unfamiliar with the content.
+Tags: Lots of homework, test heavy, graded by few things
+
+Common Themes:
+- Students describe the classes as very difficult.
+- Several reviews mention heavy reliance on Zybooks.
+- Students say lectures are short or limited.
+- Students feel they must self-teach the material.
+- Lots of homework, labs, and tests are mentioned.
+- Students who need lecture support may struggle.
+- One positive review exists, but it gives little academic detail.
+
+Useful Student Advice:
+Students should be ready to self-teach, complete Zybooks carefully, and start labs early. Students who need detailed lectures, review sessions, and guided instruction may find the class difficult.

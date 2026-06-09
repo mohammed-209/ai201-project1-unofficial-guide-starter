@@ -1,0 +1,169 @@
+Source: https://www.ratemyprofessors.com/professor/2059648
+Professor: Leili Javadpour
+Department: Computer Science
+School: University of the Pacific
+Overall Rating: 4.2 / 5
+Difficulty: 2.8 / 5
+Would Take Again: 70%
+
+Summary:
+Student reviews for Professor Leili Javadpour are mostly positive. Students often describe her as kind, caring, approachable, respectful, and helpful. Many reviews mention that she explains material clearly, gives useful examples, answers emails quickly, and is accessible outside of class. Several students say she gives good feedback and makes difficult material easier to understand.
+
+Some reviews are less positive. One student said she changes the course plan too often. Another said she did not provide enough support near the end of the semester. A Numerical Methods review says the class was very difficult for a student who was not strong in calculus, MATLAB, or differential equations.
+
+Review:
+Course: BUSI 137
+Date: January 28, 2026
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Student comment: The student called Professor Javadpour the best professor on campus. They said she is very caring, approachable, respectful, and always willing to help students. The student said she prepares students well for the course and is available when help is needed.
+Tags: Amazing lectures, caring, accessible outside class
+
+Review:
+Course: BUSI 100
+Date: December 14, 2021
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Not mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Student comment: The student said she is the best professor for BUSI 100. She gives great lectures and provides many examples. The course can be challenging, but she explains material in a straightforward and helpful way. There is a lot of homework, but it is manageable.
+Tags: Lots of homework, accessible outside class, skip class and you will not pass
+
+Review:
+Course: BUSI 139
+Date: March 27, 2019
+Quality: 3.0
+Difficulty: 2.0
+Attendance: Mandatory
+Would Take Again: No
+Grade: A
+Textbook: No
+Student comment: The student said she is nice and kind and appreciates student feedback. However, the student felt that if the goal is to learn a lot, she may not be the best choice. The student complained that she does not always stick to a plan and changes the curriculum based on what she finds interesting.
+Tags: Participation matters, lecture heavy
+
+Review:
+Course: BUSI 137
+Date: January 14, 2019
+Quality: 4.0
+Difficulty: 3.0
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Student comment: One of the best professors the student had. She is nice and caring toward students. Students were allowed to use handouts for all three exams. She goes over many examples during class.
+Tags: Accessible outside class, caring
+
+Review:
+Course: BUSI 100
+Date: December 26, 2018
+Quality: 5.0
+Difficulty: 2.0
+Attendance: Not mandatory
+Would Take Again: Yes
+Textbook: No
+Student comment: She is a great professor and answers emails right away. There is work, but students can usually finish it in class. No textbook is used. Students are encouraged to ask questions, and the student would take her again.
+Tags: Gives good feedback, accessible outside class, caring
+
+Review:
+Course: BUSI 100
+Date: December 19, 2018
+Quality: 1.0
+Difficulty: 3.0
+Attendance: Mandatory
+Would Take Again: No
+Grade: B+
+Textbook: No
+Student comment: The student said Professor Javadpour makes material easy to understand when teaching. However, they complained that she was absent for the last month and expected students to learn new end-of-semester material on their own. The student felt she lacked passion and did not provide additional support when needed.
+Tags: Skip class and you will not pass, lots of homework
+
+Review:
+Course: BUSI 100
+Date: April 24, 2018
+Quality: 5.0
+Difficulty: 2.0
+Attendance: Not mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: No
+Student comment: There is an in-class assignment each class, but the assignments are very simple. She is a forgiving grader and very nice.
+Tags: Gives good feedback, respected, lecture heavy
+
+Review:
+Course: BUS 105
+Date: February 13, 2018
+Quality: 4.0
+Difficulty: 3.0
+Attendance: Mandatory
+Would Take Again: No
+Grade: A
+Textbook: No
+Student comment: The student said not to expect to learn much about MIS, but the class is fairly easy. Students should do well on projects and exams. She can be a little too fast sometimes, but the student still recommended her.
+
+Review:
+Course: BUSI 137
+Date: October 12, 2017
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Not mandatory
+Would Take Again: Yes
+Textbook: No
+Student comment: She is kind and a clear lecturer. There are in-class assignments almost every class, but they are basic and she helps if needed. The student had her for BUSI 100 too and said she made everything easy to understand.
+Tags: Gives good feedback, skip class and you will not pass, caring
+
+Review:
+Course: BUSI 100
+Date: April 26, 2017
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A-
+Textbook: No
+Student comment: The student said Dr. Javadpour is their favorite professor at UOP and highly recommends her.
+Tags: Gives good feedback, inspirational, amazing lectures
+
+Review:
+Course: ENGR 219
+Date: May 5, 2016
+Quality: 2.5
+Difficulty: 5.0
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: Yes
+Student comment: The student took Numerical Methods with her and said it was the hardest class they had ever taken. They struggled because they had not taken Calculus 2 or 3 and were new to MATLAB and differential equations. The student said the class was taught like a review of those topics.
+
+Review:
+Course: BUSI 100
+Date: April 14, 2016
+Quality: 5.0
+Difficulty: 1.0
+Attendance: Mandatory
+Grade: B
+Textbook: No
+Student comment: Tough grader but good teacher.
+
+Review:
+Course: ENGR 19
+Date: February 13, 2016
+Quality: 4.5
+Difficulty: 3.0
+Attendance: Mandatory
+Textbook: Yes
+Student comment: One of the student's favorite professors.
+
+Common Themes:
+- Professor Javadpour is often described as caring, approachable, and respectful.
+- Students say she explains material clearly and uses many examples.
+- She is accessible outside class and answers emails quickly.
+- Several students mention in-class assignments.
+- Some students say there is a lot of homework, but it is manageable.
+- A few students say she can move too fast or change plans too much.
+- Numerical Methods was described as very difficult for a student without strong calculus, MATLAB, or differential equations background.
+
+Useful Student Advice:
+Students should ask questions, attend class, use examples and handouts to study, and keep up with homework. For harder technical classes like Numerical Methods, students should be comfortable with calculus, MATLAB, and differential equations before taking the course.

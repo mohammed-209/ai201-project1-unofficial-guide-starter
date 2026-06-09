@@ -1,0 +1,109 @@
+Source: https://www.ratemyprofessors.com/professor/1529263
+Professor: Jinzhu Gao
+Department: Computer Science
+School: University of the Pacific
+Overall Rating: 3.6 / 5
+Difficulty: 1.7 / 5
+Would Take Again: 100%
+
+Summary:
+Student reviews for Professor Jinzhu Gao are mixed. Some students describe her as nice, reasonable, funny, caring, and an easy grader. Positive reviews say her lectures are easy to follow, she tells students what to expect, exams can be open note and open book, and she provides a list of exam topics. Some students say her classes are easy if students participate, start labs early, and show effort.
+
+Negative reviews focus mostly on communication and lecture clarity. Some students say she can be hard to understand because of her accent. Other students say she reads directly from slides, expects solutions to match the book, and does not explain questions well. COMP 173 and COMP 53 have both positive and negative reviews, so student experiences seem inconsistent.
+
+Review:
+Course: COMP Many
+Date: October 15, 2025
+Quality: 5.0
+Difficulty: 1.0
+Attendance: Not mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Student comment: Good professor and interesting class.
+
+Review:
+Course: COMP 173
+Date: December 7, 2021
+Quality: 5.0
+Difficulty: 1.0
+Attendance: Mandatory
+Would Take Again: Yes
+Textbook: Not listed
+Student comment: Professor Gao tells students what to expect from the class and her lectures are easy to follow. Exams are open note and open book. She gives a list of topics likely to appear on the exam. She is funny and explains tough ideas simply. Labs can be tough, but students should be fine if they start early. The student described her as an easy grader.
+Tags: Amazing lectures, caring, clear grading criteria
+
+Review:
+Course: COMP 53
+Date: May 15, 2016
+Quality: 5.0
+Difficulty: 1.0
+Attendance: Mandatory
+Grade: A
+Textbook: No
+Student comment: Very nice professor.
+
+Review:
+Course: COMP 101
+Date: December 14, 2015
+Quality: 3.5
+Difficulty: 1.0
+Attendance: Mandatory
+Textbook: Yes
+Student comment: She is a fair grader and nice. She can be hard to understand at first, but students may get used to it after a week.
+
+Review:
+Course: COMP 173
+Date: November 4, 2015
+Quality: 1.0
+Difficulty: 2.0
+Attendance: Not mandatory
+Grade: A
+Textbook: Yes
+Student comment: The student had a very negative experience. They said Gao was difficult to understand and did not convey ideas clearly in English. Lectures consisted of reading slides followed by in-class book work. The student said she expected solutions to be identical to the book and allowed little flexibility.
+
+Review:
+Course: COMP 71
+Date: June 6, 2015
+Quality: 3.5
+Difficulty: 2.0
+Textbook: Yes
+Student comment: The student said she is nice, reasonable, and a great professor, but they wished they could understand her accent better.
+
+Review:
+Course: COMP 101
+Date: April 7, 2015
+Quality: 4.5
+Difficulty: 1.0
+Attendance: Not mandatory
+Grade: A
+Textbook: No
+Student comment: COMP 101 was described as the easiest four-credit course the student took at UOP. The student earned an A by participating and helping with group projects. Minimal effort was needed. Students should aim for a high grade and show enthusiasm.
+
+Review:
+Course: COMP 53
+Date: March 31, 2015
+Quality: 1.5
+Difficulty: 5.0
+Textbook: Yes
+Student comment: The student said they could not understand her lectures. When they asked questions, she told them to read the book. The student said most slides and in-class practice came from Absolute C++ by Walter Savitch. The student felt they learned most of data structures by themselves.
+
+Review:
+Course: COMP Many
+Date: March 25, 2012
+Quality: 3.5
+Difficulty: 1.0
+Textbook: Yes
+Student comment: Gao was described as one of the easiest professors the student had. She allowed late work, graded easily, and treated students nicely.
+
+Common Themes:
+- Professor Gao is often described as nice, reasonable, caring, and an easy grader.
+- Some students say her classes are easy if students participate and show effort.
+- COMP 173 has one very positive review and one very negative review.
+- Some students say her lectures are easy to follow, while others say she is hard to understand.
+- Students mention open-note/open-book exams and clear exam topic lists in COMP 173.
+- Labs can be tough, so students should start early.
+- Negative reviews mention accent, reading from slides, reliance on the textbook, and unclear explanations.
+
+Useful Student Advice:
+Students should start labs early, pay attention to exam topic lists, participate, and ask for clarification early if they struggle with lecture clarity. Students who rely heavily on lectures may have a harder time if they find her difficult to understand, so reading the textbook and reviewing slides may be important.

@@ -11,6 +11,8 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+My domain is student-generated reviews of University of the Pacific Computer Science professors and courses. This knowledge is useful because students often want honest information about teaching style, workload, exams, grading, and whether a professor is helpful before choosing classes. It is hard to find through official university pages because course catalogs describe the class content, but not what students actually experience.
+
 ---
 
 ## Documents
@@ -20,16 +22,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Afsoon Zowj Reviews | Student reviews discussing COMP 025, COMP 047, COMP 051, and COMP 053, including workload, exams, teaching style, and grading. | docs/afsoon_zowj_reviews.txt |
+| 2 | Leili Javadpour Reviews | Student reviews discussing BUSI and engineering courses, focusing on teaching quality, accessibility, and course difficulty. | docs/leili_javadpour_reviews.txt |
+| 3 | Cathryn Carlson Reviews | Student reviews discussing COMP 025 and COMP 041, focusing on beginner-friendly instruction, assignments, and practical skills. | docs/cathryn_carlson_reviews.txt |
+| 4 | Jinzhu Gao Reviews | Student reviews discussing COMP 053, COMP 101, COMP 173, and other CS courses, covering lecture quality, exams, and course difficulty. | docs/jinzhu_gao_reviews.txt |
+| 5 | Dana Nehoran Reviews | Student reviews discussing programming, analytics, and data science courses, including Python, R, workload, and teaching effectiveness. | docs/dana_nehoran_reviews.txt |
+| 6 | Daniel Cliburn Reviews | Student reviews discussing COMP 051 and COMP 053, focusing on projects, exams, coding assignments, and concept mastery. | docs/daniel_cliburn_reviews.txt |
+| 7 | Sehtab Hossain Reviews | Student reviews discussing ECPE 071, focusing on grading, feedback, workload, and lecture quality. | docs/sehtab_hossain_reviews.txt |
+| 8 | Michael Lanners Reviews | Student reviews discussing COMP 053 and COMP 061, focusing on self-learning, Zybooks, labs, and teaching style. | docs/michael_lanners_reviews.txt |
+| 9 | William Ford Reviews | Student reviews discussing Java, algorithms, and data structures courses, focusing on teaching style, homework, and exams. | docs/william_ford_reviews.txt |
+| 10 | Kathy Schuler Reviews | Student reviews discussing COMP 025, focusing on Excel, HTML, labs, projects, and beginner computer skills. | docs/kathy_schuler_reviews.txt |
 
 ---
 
@@ -41,11 +43,13 @@
      A review-heavy corpus warrants different chunking than a long FAQ. -->
 
 **Chunk size:**
+I will use one structured block per chunk instead of a fixed character size. Each `Review:` block will become one chunk. The `Summary`, `Common Themes`, and `Useful Student Advice` sections will also become their own chunks.
 
 **Overlap:**
+I will use no overlap. Since each review is already a complete block, overlap would mostly duplicate content instead of preserving meaning.
 
 **Reasoning:**
-
+The documents are semi-structured professor review files, not long essays. Each review already contains one student opinion with course, date, rating, difficulty, comment, and tags. Splitting by `Review:` keeps each opinion together. Fixed-size chunking could split a long review in half or merge parts of two short reviews together. Because the professor name appears in the header, I will prepend the professor name and source filename to each chunk so retrieval and citations stay clear.
 ---
 
 ## Retrieval Approach
@@ -57,10 +61,19 @@
      support, accuracy on domain-specific text, latency? -->
 
 **Embedding model:**
+I will use `all-MiniLM-L6-v2` through sentence-transformers (it ships with ChromaDB's default embedding function and is already in requirements.txt). It is small, fast, runs locally with no API cost, and works well on short English text like student reviews.
 
 **Top-k:**
+I will retrieve the top 5 chunks per query. Because each chunk is a single short review, many of my questions ("what do students generally think of professor X?") need several opinions to answer fairly, so one or two chunks would be too few and could cherry-pick a single outlier. Too many (e.g. 15) would pull in weakly related reviews and dilute the context the LLM sees, making the answer vaguer. Five is enough to capture a representative sample without much noise. I may filter by the `professor` metadata so the 5 chunks come from the right professor.
+
+Semantic search works even when the query words don't match the document because the embedding model maps text to vectors by *meaning*, not exact words. A query like "is she an easy grader?" lands near a review that says "she rounds grades and drops the lowest midterm," because those phrases occupy similar regions of the vector space even though they share no keywords.
 
 **Production tradeoff reflection:**
+If I were deploying this for real and cost didn't matter, I'd weigh:
+- **Domain accuracy:** a larger or instruction-tuned embedding model (e.g. OpenAI `text-embedding-3-large` or a bge/e5 model) would distinguish fine-grained opinions ("hard exams" vs "hard grader") better than MiniLM.
+- **Context length:** MiniLM truncates at ~256 tokens. That's fine for one review, but a model with a longer context window would let me embed whole multi-review sections without truncation.
+- **Multilingual support:** not important here since all reviews are in English; I'd only pay for it if students reviewed in other languages.
+- **Latency / cost:** MiniLM is local and instant; a hosted model adds an API round-trip and per-call cost. For a small class-facing tool, the local model's speed and zero cost likely outweigh the accuracy gain.
 
 ---
 
@@ -73,11 +86,11 @@
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | | |
-| 2 | | |
-| 3 | | |
-| 4 | | |
-| 5 | | |
+| 1 | What do students say about Michael Lanners' teaching style and his use of Zybooks? | Reviews are mostly negative. He lectures only about 10–15 minutes, relies heavily on Zybooks, and expects students to self-teach the material. Classes are fast-paced with lots of labs/homework and little support; 0% would take him again. |
+| 2 | According to reviews, why are Daniel Cliburn's COMP 53 midterms considered difficult? | A recent review says the midterms are extremely difficult and that coding is done with pen and paper, which makes them harder. Even with strong project grades, a bad midterm can tank the course grade. |
+| 3 | What grading leniency does Afsoon Zowj offer students? | Students say grading can be lenient: she may round grades, drop the lower of two midterms if the second is better, and offer extra credit on exams. |
+| 4 | Is attendance important in Afsoon Zowj's classes? | Yes. Attendance is listed as mandatory in nearly all reviews, and several students warn that missing class can hurt your grade. |
+| 5 | What do students recommend for succeeding in Afsoon Zowj's COMP 053? | Attend lectures regularly, keep up with the daily quizzes and labs, review before midterms, choose a reliable lab partner early, and use office hours when confused. |
 
 ---
 
@@ -87,9 +100,11 @@
      Consider: noisy or inconsistent documents, missing source attribution, off-topic
      retrieval, chunks that split key information across boundaries. -->
 
-1.
+1. **Wrong-professor retrieval (missing attribution in chunks).** The professor's name only appears in each file's header, not inside the individual `Review:` blocks. If I embed a review chunk on its own, it has no idea which professor it's about, so a question about a professor could retrieve a similar-sounding review about another professor. Mitigation: store `professor`/`course` as metadata and prepend the professor name to every chunk before embedding, and optionally filter retrieval by the professor metadata.
 
-2.
+2. **Conflicting/inconsistent reviews leading to a one-sided answer.** Reviews for the same professor genuinely disagree (e.g. Cliburn has years of 5.0 reviews plus one recent 1.0 "midterms are brutal" review). With a small top-k, retrieval might surface only the positive or only the negative ones, so the LLM gives a lopsided answer that hides the disagreement. Mitigation: use top-k around 5 to sample multiple opinions, and instruct the generator to acknowledge when reviews disagree rather than picking one side.
+
+Other risks I'm watching: off-topic retrieval when a question isn't covered by any document (the system should say it doesn't know rather than guess), and inconsistent course numbering across reviews (e.g. "COMP 53" vs "COMP 053") that could fragment results for the same course.
 
 ---
 
@@ -100,6 +115,37 @@
      Label each stage with the tool or library you're using.
      You can use ASCII art, a Mermaid diagram, or embed a sketch as an image.
      You'll use this diagram as context when prompting AI tools to implement each stage. -->
+
+```
+┌──────────────────────┐     ┌──────────────────────┐     ┌──────────────────────────┐
+│ 1. Document          │     │ 2. Chunking          │     │ 3. Embedding + Vector    │
+│    Ingestion         │     │                      │     │    Store                 │
+│                      │     │ Split on `Review:` / │     │                          │
+│ Read .txt files from │──▶  │ section delimiters;  │ ──▶│ all-MiniLM-L6-v2         │
+│ docs/  (Python file  │     │ 1 review = 1 chunk;  │     │ (sentence-transformers)  │
+│ I/O, python-dotenv   │     │ prepend professor    │     │ embeds chunks → stored   │
+│ for the API key)     │     │ name + metadata      │     │ in ChromaDB (persistent) │
+└──────────────────────┘     └──────────────────────┘     └──────────────────────────┘
+                                                                       │
+                                                                       ▼
+┌───────────────────────────────────────┐     ┌───────────────────────────────────────┐
+│ 5. Generation                         │     │ 4. Retrieval                          │
+│                                       │     │                                       │
+│ Groq LLM (llama-3.x) builds a         │ ◀── │ Embed the user query with the same    │
+│ grounded answer from retrieved        │     │ model; ChromaDB cosine search returns │
+│ reviews + cites professor/course.     │     │ top-k = 5 chunks (optionally filtered │
+│ UI: Gradio or Streamlit.              │     │ by professor metadata).               │
+└───────────────────────────────────────┘     └───────────────────────────────────────┘
+        ▲                                                       ▲
+        └──────────────  user question ────────────────────────┘
+```
+
+**Stage → tool/library:**
+1. Document Ingestion — Python file I/O over `docs/*.txt`, `python-dotenv` for secrets
+2. Chunking — custom `chunk_text()` (delimiter-based, metadata injection)
+3. Embedding + Vector Store — `all-MiniLM-L6-v2` via `sentence-transformers`, stored in `ChromaDB`
+4. Retrieval — ChromaDB cosine similarity query, top-k = 5
+5. Generation — `groq` LLM with a grounding prompt; `Gradio`/`Streamlit` front end
 
 ---
 
@@ -116,7 +162,3 @@
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
-
-**Milestone 4 — Embedding and retrieval:**
-
-**Milestone 5 — Generation and interface:**

@@ -1,0 +1,152 @@
+Source: https://www.ratemyprofessors.com/professor/2525611
+Professor: Afsoon Zowj
+Department: Computer Science
+School: University of the Pacific
+Overall Rating: 4.1 / 5
+Difficulty: 2.6 / 5
+Would Take Again: 82%
+
+Summary:
+Student reviews for Professor Afsoon Zowj are mostly positive, especially for COMP 051 and COMP 053. Students describe her as kind, approachable, helpful, and understanding. Several reviews mention that her classes include frequent quizzes, labs, zyBook work, and lecture-heavy material. Students say attendance matters because missing class can hurt your grade.
+
+Some students say exams and midterms can be difficult, but grading can be lenient because she may round grades, drop a lower midterm, or offer extra credit. A newer COMP 047 review is much more negative and says the slides had incorrect or missing information and that lectures moved too quickly.
+
+Review:
+Course: COMP 047
+Date: February 13, 2026
+Quality: 1.0
+Difficulty: 4.0
+Attendance: Mandatory
+Grade: Not sure yet
+Textbook: N/A
+Student comment: She is a very nice person but does not teach you anything. The slides she uses have constantly had the wrong information or missing information entirely. There is no textbook to learn from, just her incorrect slides. She goes through the information incredibly fast and barely covers any information in the topics.
+Tags: Lecture heavy
+
+Review:
+Course: COMP 051
+Date: November 26, 2024
+Quality: 4.0
+Difficulty: 2.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: N/A
+Student comment: Very nice, good at teaching the topics, homework not too hard.
+
+Review:
+Course: COMP 053
+Date: April 3, 2023
+Quality: 5.0
+Difficulty: 3.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Student comment: The class is lecture, zyBook, and lab heavy. There are quizzes every day, but students get two attempts. Midterms were a little tough, so students should review. Students recommend attending office hours for clarification when something does not make sense.
+Tags: Lots of homework, respected, lecture heavy
+
+Review:
+Course: COMP 053
+Date: November 20, 2022
+Quality: 4.0
+Difficulty: 4.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Student comment: Professor Zowj is kind and understanding. Missing class can hurt your grade if you are not careful. There are labs every class session, but students say they are not too hard if you set aside time each day. Textbook cost was mentioned as around 58 dollars.
+Tags: Clear grading criteria, lots of homework, lecture heavy
+
+Review:
+Course: COMP 053
+Date: August 4, 2022
+Quality: 5.0
+Difficulty: 1.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Student comment: Good professor. There are quizzes every class day and students get two chances. The class can be a little hard, but answers are often on the slides. Midterms and finals were hard, but she rounds and drops the lowest midterm grade if the second one is better.
+Tags: Lots of homework, caring, test heavy
+
+Review:
+Course: COMP 053
+Date: August 4, 2022
+Quality: 5.0
+Difficulty: 1.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Student comment: Very good professor. Students should choose a good partner early because they may stay with that partner all semester. There are labs every class, but they are manageable if students pay attention to lecture. She is approachable, likes questions, and can be lenient when students pay attention and attend class.
+Tags: Clear grading criteria, lots of homework, caring
+
+Review:
+Course: COMP 047
+Date: December 18, 2020
+Quality: 5.0
+Difficulty: 1.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: Yes
+Student comment: Take her, very helpful.
+
+Review:
+Course: COMP 053
+Date: December 18, 2020
+Quality: 5.0
+Difficulty: 1.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A+
+Textbook: Yes
+Student comment: One of the easiest classes the student had taken. The class had extra credit on exams, nice lectures, and she was not a strict grader.
+Tags: Caring, extra credit
+
+Review:
+Course: COMP 053
+Date: April 13, 2020
+Quality: 5.0
+Difficulty: 3.0
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Student comment: Very helpful.
+Tags: Clear grading criteria, hilarious, caring
+
+Review:
+Course: COMP 025
+Date: April 1, 2020
+Quality: 3.0
+Difficulty: 4.0
+Attendance: Mandatory
+Would Take Again: Yes
+Grade: A
+Textbook: No
+Student comment: This class has a lot of homework and is hard. The workload is heavy even with another professor. However, if students communicate with Professor Zowj, she is understanding. Students recommend taking the class with a light schedule.
+Tags: Lots of homework, participation matters, lecture heavy
+
+Review:
+Course: COMP 025
+Date: February 11, 2020
+Quality: 3.0
+Difficulty: 4.0
+Attendance: Not mandatory
+Would Take Again: No
+Grade: A-
+Textbook: No
+Student comment: The review is very short and positive in tone but does not give much detail.
+Tags: Respected, lots of homework, lecture heavy
+
+Common Themes:
+- Professor Zowj is often described as nice, helpful, approachable, and understanding.
+- COMP 053 has frequent quizzes, labs, zyBook work, and lecture-heavy material.
+- Attendance matters in several courses.
+- Midterms and finals can be difficult.
+- Grading can be lenient because of rounding, extra credit, or dropped midterm policies.
+- Some students say the workload is heavy, especially in COMP 025 and COMP 053.
+- A newer COMP 047 review says slides had errors or missing information and lectures moved too quickly.
+
+Useful Student Advice:
+Students should attend class regularly, review before midterms, use office hours when confused, and keep up with labs and quizzes. For COMP 053, students should pay attention during lectures and choose a reliable lab partner. For COMP 025, students should avoid taking it with an overloaded schedule because the workload can be heavy.

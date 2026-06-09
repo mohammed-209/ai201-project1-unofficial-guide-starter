@@ -1,0 +1,83 @@
+Source: https://www.ratemyprofessors.com/professor/619643
+Professor: William Ford
+Department: Computer Science
+School: University of the Pacific
+Overall Rating: 3.9 / 5
+Difficulty: 1.8 / 5
+Would Take Again: N/A
+
+Summary:
+Reviews for Professor William Ford are mixed but generally respectful. Students describe him as extremely knowledgeable, smart, energetic, and helpful, especially with computer science, Java, data structures, and algorithms. Some students say he knows the material very well and gives helpful notes for homework. However, several reviews mention that he can be scattered, go on tangents, or have flaws in teaching execution, which can make classes confusing or boring.
+
+Review:
+Course: COMP 47
+Date: May 11, 2011
+Quality: 2.0
+Difficulty: 1.0
+Textbook: Yes
+Student comment: The student called him a genius, but said his tendency to go on tangents hurts his teaching. The class was confusing because he was inconsistent in checking whether students understood the material. The student said a lot of self-teaching was needed and suggested taking Cliburn or Bowring if possible.
+
+Review:
+Course: COMP 147
+Date: June 10, 2007
+Quality: 3.5
+Difficulty: 1.0
+Textbook: Yes
+Student comment: The student said he is a bit scattered but very lenient with grading.
+
+Review:
+Course: Algorithms
+Date: March 27, 2006
+Quality: 4.0
+Difficulty: 2.0
+Student comment: The student said he knows everything about data structures and algorithms and even wrote the book and made the IDE. However, the student said his teaching execution has flaws. He assigns many problems, so students should give themselves about two days for each homework if unsure. Classes can be boring.
+
+Review:
+Course: COMP 53
+Date: December 23, 2005
+Quality: 5.0
+Difficulty: 1.0
+Student comment: Professor Ford is very smart and energetic. His Java book was described as outstanding.
+
+Review:
+Course: C
+Date: October 4, 2005
+Quality: 3.0
+Difficulty: 1.0
+Student comment: No comment was provided.
+
+Review:
+Course: CS
+Date: September 29, 2005
+Quality: 5.0
+Difficulty: 4.0
+Student comment: No comment was provided.
+
+Review:
+Course: ALOT
+Date: August 24, 2005
+Quality: 4.5
+Difficulty: 3.0
+Attendance: Mandatory
+Grade: A
+Student comment: The student said he is clear when teaching and enthusiastic about the subject, but his tests are difficult.
+
+Review:
+Course: COMP 53
+Date: May 14, 2005
+Quality: 4.5
+Difficulty: 1.0
+Student comment: Ford knows his material and is helpful in and out of class. He gives good notes based on what students will need for homework.
+
+Common Themes:
+- Ford is described as very knowledgeable and smart.
+- Students say he knows computer science, Java, data structures, and algorithms well.
+- He may be helpful in and outside class.
+- Some students say he gives useful notes for homework.
+- Several reviews say he can be scattered or go on tangents.
+- Some students say self-teaching may be necessary.
+- Homework can involve many problems, especially in algorithms.
+- Tests may be difficult even if the class difficulty rating is low.
+
+Useful Student Advice:
+Students should take good notes, expect some self-teaching, and give themselves enough time for homework. For algorithms or data structures, students should not wait until the last minute. Students who prefer very structured lectures may find him harder to follow.
