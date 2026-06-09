@@ -162,3 +162,10 @@ Other risks I'm watching: off-topic retrieval when a question isn't covered by a
      with my specified chunk size and overlap" is a plan. -->
 
 **Milestone 3 — Ingestion and chunking:**
+I'll use Claude. I'll give it my **Chunking Strategy** section plus one real sample file (`docs/afsoon_zowj_reviews.txt`) so it sees the actual `Review:` / `Summary` / `Common Themes` structure, and ask it to implement `load_documents()` and `chunk_text()` that split on the `Review:` delimiter, treat each section as its own chunk, and attach `professor`/`course`/`source` metadata while prepending the professor name to each chunk's text. I'll verify by printing the chunks for one file and checking that no review is split, no two reviews are merged, and every chunk's metadata names the right professor.
+
+**Milestone 4 — Embedding and retrieval:**
+I'll use Claude. I'll give it my **Retrieval Approach** section and ask it to implement embedding with `all-MiniLM-L6-v2` via ChromaDB's embedding function, store chunks with their metadata, and write a `retrieve(query, n_results=5)` that returns each chunk's text, professor/course, and distance. I'll verify by running my 5 evaluation questions and checking that the top results come from the correct professor and that distances are low for clear matches — exactly the "right topic but wrong professor" failure I flagged in Anticipated Challenges.
+
+**Milestone 5 — Generation and interface:**
+I'll use Claude. I'll give it my contract for `generate_response(query, retrieved_chunks)` and ask it to call the Groq LLM with a **grounding** system prompt (answer only from the retrieved reviews, cite the professor/course, say "I don't know" when the reviews don't cover it, and note when reviews disagree), then wrap it in a simple Gradio or Streamlit interface. I'll verify by asking a question that's in the docs (checking it cites the right professor) and one that isn't (checking it refuses instead of inventing an answer).
